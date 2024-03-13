@@ -1,4 +1,4 @@
-After cloning the go into the folder erp-app by using
+After cloning the go into the folder erp-app by using :
 1.cd erp-app
 2.npm install
 3.npm run start
