@@ -68,10 +68,21 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
   
 <img width="960" alt="Screenshot 2024-03-13 223534" src="https://github.com/Ajinkya0772/ERP_System--Project/assets/128412732/36e6c1b9-e5bd-48d9-8973-63b711bd579c">
 
-
 <img width="960" alt="Screenshot 2024-03-13 223620" src="https://github.com/Ajinkya0772/ERP_System--Project/assets/128412732/af60cc25-8eb9-4447-b685-ebc32af9547e">
 
-<img width="960" alt="Screenshot 2024-03-13 223655" src="https://github.com/Ajinkya0772/ERP_System--Project/assets/128412732/98201639-1943-422b-8630-6f4eaf77afe5">
+<img width="958" alt="image" src="https://github.com/Ajinkya0772/ERP_System--Project/assets/128412732/45306483-fc70-4e9b-bf52-defa6ae2f7fc">
+
 
 # How Project Works-
 
+
+https://github.com/Ajinkya0772/ERP_System--Project/assets/128412732/6a4b155c-1350-4d84-a3a2-f9ff3d1a0a44
+
+# Contributing
+Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
+
+* Fork the repository
+* Create your feature branch (git checkout -b feature/YourFeature)
+* Commit your changes (git commit -am 'Add some feature')
+* Push to the branch (git push origin feature/YourFeature)
+* Create a new Pull Request
