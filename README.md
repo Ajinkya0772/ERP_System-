@@ -1,14 +1,11 @@
                                            ERP System Interface
                                                  
 * Table of Contents
-* 
-1.Features
-2.Technology Stack
-3.Installation
-4.Usage
-5.Screenshots
-6.Contributing
-                                      
+* Features
+* Technology Stack
+* Screenshots
+* Contributing
+                     
 This project is a simplified interface for an ERP (Enterprise Resource Planning) system, designed to manage basic business operations efficiently. 
 It includes functionalities for dashboard overview, product management, and order management, with an optional feature for an orders calendar view.
 
