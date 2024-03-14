@@ -1,4 +1,4 @@
-                                                            __ERP System Interface__
+                                                      				ERP System Interface
                                                  
 * Table of Contents
 1.Features
