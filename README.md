@@ -70,3 +70,8 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 
 <img width="960" alt="Screenshot 2024-03-13 223620" src="https://github.com/Ajinkya0772/ERP_System--Project/assets/128412732/af60cc25-8eb9-4447-b685-ebc32af9547e">
+
+<img width="960" alt="Screenshot 2024-03-13 223655" src="https://github.com/Ajinkya0772/ERP_System--Project/assets/128412732/98201639-1943-422b-8630-6f4eaf77afe5">
+
+# How Project Works-
+
