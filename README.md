@@ -1,5 +1,8 @@
                                          
-  # * ERP System Interface                                             
+  #  ERP System Interface       
+  This project is a simplified interface for an ERP (Enterprise Resource Planning) system, designed to manage basic business operations efficiently. 
+  It includes functionalities for dashboard overview, product management, and order management, with an optional feature for an orders calendar view.
+
 * Table of Contents
 * Features
 * Technology Stack
@@ -19,10 +22,7 @@
 
 # Installation
                   
-* This project is a simplified interface for an ERP (Enterprise Resource Planning) system, designed to manage basic business operations efficiently. 
-  It includes functionalities for dashboard overview, product management, and order management, with an optional feature for an orders calendar view.
-
-* After cloning the go into the folder erp-app by using :
+* After cloning the repository go into the folder erp-app by using :
   * cd erp-app
   * npm install
   * npm run start
